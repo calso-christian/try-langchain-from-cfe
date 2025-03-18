@@ -1,0 +1,8 @@
+langchain
+langchain-openai
+python-decouple
+openai
+langserve[all]
+langchain-community
+upstash-vector
+jupyter
